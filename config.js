@@ -83,6 +83,12 @@ window.PorfolioConfig = {
       name: 'NDG Linux Essentials'
     }
   ],
+  Resume: [
+    {
+      name: 'Resume',
+      link: 'https://gersdcmpo.github.io/file/deOcampo_Resume.pdf'
+    }
+  ],
   contacts: {
     email: 'grsndcmpo.prsnl@gmail.com',
     mobileNo: '+639458391703',
