@@ -1,68 +1,104 @@
 window.PorfolioConfig = {
-  name: 'John Doe',
-  jobTitle: 'Full-stack Web Developer',
-  jobDescription: 'Sit quis in tempor quis. Nisi ex exercitation in irure. Reprehenderit sint aliqua et dolore enim laboris dolore exercitation magna aliqua ex ad.',
+  name: 'Gerson de Ocampo',
+  jobTitle: 'Entry Level Developer',
+  jobDescription: 'Currently looking for an opportunity to enhance my knowledge in the work field at the company. I am an adaptable professional with years of leadership experience and proven knowledge of problem-solving and workflow prioritization. Ability to complete tasks on time in both individual and team settings.',
   skills: [
     {
-      name: 'JavaScript',
-      description: 'Reprehenderit mollit id ad veniam.'
+      name: 'Time Management',
+      description: 'Ability to complete tasks on time in both individual and team settings.'
     },
     {
-      name: 'HTML',
-      description: 'Fugiat veniam esse consequat quis cillum elit consequat Lorem pariatur ipsum veniam irure incididunt non.'
+      name: 'Leadership',
+      description: "Tells and checks the team's progress and makes sure that the team is on the right track."
     },
     {
-      name: 'CSS',
-      description: 'Elit tempor mollit consectetur laborum nostrud qui in.'
+      name: 'Team Oriented',
+      description: 'Works well with others and can communicate effectively with the team.'
+    },
+    {
+      name: 'Adaptable',
+      description: "Can adapt to any situation and can work under pressure."
+    },
+    {
+      name: 'Dedicated',
+      description: "Willing to work hard and put in the effort to get the job done."
+    },
+  ],
+  code: [
+    {
+      name: 'Python'
+    },
+    {
+      name: 'Java'
+    },
+    {
+      name: 'Swift'
+    },
+    {
+      name: 'HTML'
+    },
+    {
+      name: 'CSS'
+    },
+    {
+      name: 'JavaScript'
+    },
+    {
+      name: 'C#'
     }
   ],
   works: [
     {
-      name: 'Vue Stripe Checkout',
-      link: 'https://jofftiquez.github.io/vue-stripe-checkout',
-      description: 'Mollit dolor tempor adipisicing non pariatur in tempor cillum do. In officia ullamco laborum ullamco voluptate. Laboris sunt quis enim Lorem laboris aliquip duis non magna excepteur voluptate. Pariatur velit aliquip officia nulla anim reprehenderit deserunt. Sint nostrud ipsum do aliquip.'
+      name: 'Popeyes Delivery App',
+      link: 'https://github.com/GersDcmpo/Popeyes-Delivery-App',
+      description: 'Created a sample delivery app for Popeyes using Swift.'
     },
     {
-      name: 'ToDo App',
-      link: 'https://theuselessweb.com/',
-      description: 'Esse magna anim incididunt enim sint aute consectetur ipsum id nostrud eu do. Pariatur et anim enim aliquip anim. Laboris labore incididunt labore enim nisi elit excepteur deserunt irure exercitation exercitation. Lorem sit ad laborum sit velit veniam sit nisi nostrud occaecat duis nulla duis.'
+      name: 'HTML Snake Game',
+      link: 'https://github.com/GersDcmpo/HTML-Game',
+      description: 'Created a Sample Classic Snake Game using HTML, CSS, and JavaScript.'
     },
     {
-      name: 'A Mobile Game',
-      link: 'https://theuselessweb.com/',
-      description: 'Incididunt non cupidatat deserunt ut commodo qui non do Lorem. Qui aute minim enim sit magna est consectetur incididunt. Ex est cupidatat tempor pariatur deserunt labore tempor minim laboris magna ipsum minim ea ea. Consectetur do anim laboris nulla nisi veniam sint qui.'
+      name: 'Zombie Survival Game',
+      link: 'https://github.com/GersDcmpo/Unity-Game',
+      description: 'A survival Game with endless waves against zombies using 3D graphics in Unity.'
+    },
+    {
+      name: 'Liminal Nextbot',
+      link: 'https://gersdcmpo.itch.io/liminal-nextbot',
+      description: "Liminal Nextbot is a Survival-Light Horror game about surviving character’s disorder and escaping their thoughts. Created using 3D Graphics in Unity."
     }
   ],
-  hobbies: [
+  Certificates: [
     {
-      name: 'Rock Climbing',
-      description: 'Occaecat ipsum dolor ea ad ut irure do proident excepteur consectetur duis eu culpa velit.'
+      name: 'Introduction to Cisco Packet Tracer'
     },
     {
-      name: 'Surfing',
-      description: 'Laboris occaecat adipisicing culpa duis aute ea excepteur quis eiusmod mollit est pariatur.'
+      name: 'Cisco Cybersecurity Essentials'
     },
     {
-      name: 'Rubick\'s Cube',
-      description: 'Laborum pariatur sint labore officia enim occaecat id.'
+      name: 'Introduction to Internet of Things'
+    },
+    {
+      name: 'NDG Linux Essentials'
     }
   ],
   contacts: {
-    email: 'john.doe@gmail.com',
-    mobileNo: '+639171234567',
-    phoneNo: '+12 345 6789',
+    email: 'grsndcmpo.prsnl@gmail.com',
+    mobileNo: '+639458391703',
+    phoneNo: '+639760412771',
     links: [
       {
         name: 'GitHub',
-        link: 'https://github.com/jofftiquez'
+        link: 'https://github.com/GersDcmpo'
       },
       {
         name: 'Facebook',
-        link: 'https://facebook.com/jofftiquez'
+        link: 'https://www.facebook.com/gers.dcmp/'
       },
       {
-        name: 'Twitter',
-        link: 'https://twitter.com/jrtiquez'
+        name: 'LinkedIn',
+        link: 'https://www.linkedin.com/in/gers-dcmpo/'
       }
     ]
   }
