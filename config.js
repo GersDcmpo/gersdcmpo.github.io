@@ -71,13 +71,13 @@ window.PorfolioConfig = {
   ],
   Certificates: [
     {
+      name: 'IT Essentials'
+    },
+    {
       name: 'Introduction to Cisco Packet Tracer'
     },
     {
       name: 'Cisco Cybersecurity Essentials'
-    },
-    {
-      name: 'Introduction to Internet of Things'
     },
     {
       name: 'NDG Linux Essentials'
