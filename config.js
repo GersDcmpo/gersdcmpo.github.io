@@ -54,6 +54,11 @@ window.PorfolioConfig = {
       description: 'Created a sample delivery app for Popeyes using Swift.'
     },
     {
+      name: 'Stencyl Asteroid Game',
+      link: 'https://github.com/GersDcmpo/Stencyl-Game',
+      description: 'Created a Classic Asteroid Style Game using Stencyl.'
+    },
+    {
       name: 'HTML Snake Game',
       link: 'https://github.com/GersDcmpo/HTML-Game',
       description: 'Created a Sample Classic Snake Game using HTML, CSS, and JavaScript.'
