@@ -76,9 +76,6 @@ window.PorfolioConfig = {
   ],
   Certificates: [
     {
-      name: 'IT Essentials'
-    },
-    {
       name: 'Introduction to Cisco Packet Tracer'
     },
     {
