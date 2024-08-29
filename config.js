@@ -91,6 +91,12 @@ window.PorfolioConfig = {
       link: 'https://gersdcmpo.github.io/file/deOcampo_Resume.pdf'
     }
   ],
+  TOEIC: [
+    {
+      name: 'TOEIC Certificate',
+      link: 'https://gersdcmpo.github.io/file/GersonDeOcampo_TOEICResult.pdf'
+    }
+  ],
   contacts: {
     email: 'grsndcmpo.prsnl@gmail.com',
     mobileNo: '+639458391703',
